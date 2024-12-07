@@ -1,0 +1,11 @@
+.frontend-div {
+    --wp--style--global--content-size: 100%
+}
+
+#money-manager .body>section {
+    margin-top: 1rem !important;
+}
+
+#money-manager .body .navbar {
+    position: static;
+}
